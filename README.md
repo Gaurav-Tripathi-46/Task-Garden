@@ -1,4 +1,4 @@
-# Vibe Task Garden
+#  Task Garden
 
 A small full‑stack task board built as a coding assignment.  
 Backend uses FastAPI (Python) and frontend uses React + Vite with Tailwind CSS.
